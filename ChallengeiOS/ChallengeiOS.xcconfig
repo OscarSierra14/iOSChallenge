@@ -1,0 +1,7 @@
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_API_URL = http:/$()/api.openweathermap.org/data/2.5/forecast?q=Dusseldorf&appid=b0487b772925e5303f6a1da292c8ba97
+
